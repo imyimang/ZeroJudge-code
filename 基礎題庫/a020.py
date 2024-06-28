@@ -27,6 +27,7 @@ id_number_dict = {
     "Y":[31,"陽明山"],
     "Z":[33,"連江縣"]
 }
+#打上面那個是我花最多時間的
 
 id_number = input()
 alphabet = id_number_dict[id_number[0]][0]
