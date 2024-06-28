@@ -3,3 +3,5 @@ while True:
         print(eval(input()))
     except:
         break
+
+#eval被禁用:(
