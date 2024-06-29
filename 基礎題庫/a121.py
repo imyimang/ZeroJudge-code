@@ -33,6 +33,7 @@ while True:
         break
 
 
+
 #這題TLE真的太嚴格 我後來用gpt寫了一個Segmented Sieve(類似進階版的埃拉托色尼篩法)的解法，下面是原本的寫法
 """
 while True:
